@@ -1,3 +1,5 @@
+# Print the mean of the numbers given as arguements
+
 import sys
 if len(sys.argv) == 1:
     print 'Error: No arguments given.'
